@@ -29,7 +29,7 @@ const Dashboard = () => {
 			>
 				<Header
 					title="DASHBOARD"
-					subtitle="Welcome to your dashboard"
+					subTitle="Welcome to your dashboard"
 				/>
 
 				<Box>
@@ -65,7 +65,7 @@ const Dashboard = () => {
 				>
 					<StatBox
 						title="12,361"
-						subtitle="Emails Sent"
+						subTitle="Emails Sent"
 						progress="0.75"
 						increase="+14%"
 						icon={
@@ -87,7 +87,7 @@ const Dashboard = () => {
 				>
 					<StatBox
 						title="431,225"
-						subtitle="Sales Obtained"
+						subTitle="Sales Obtained"
 						progress="0.50"
 						increase="+21%"
 						icon={
@@ -109,7 +109,7 @@ const Dashboard = () => {
 				>
 					<StatBox
 						title="32,441"
-						subtitle="New Clients"
+						subTitle="New Clients"
 						progress="0.30"
 						increase="+5%"
 						icon={
@@ -131,7 +131,7 @@ const Dashboard = () => {
 				>
 					<StatBox
 						title="1,325,134"
-						subtitle="Traffic Received"
+						subTitle="Traffic Received"
 						progress="0.80"
 						increase="+43%"
 						icon={
