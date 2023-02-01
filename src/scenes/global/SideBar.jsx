@@ -67,7 +67,6 @@ const SideBar = () => {
 				rootStyles={{
 					backgroundColor: `${colors.primary[400]}`,
 					borderRight: "none",
-					height: "100vh",
 					[`.${sidebarClasses.container}`]: {
 						backgroundColor: "transparent",
 					},

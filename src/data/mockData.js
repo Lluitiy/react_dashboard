@@ -1230,7 +1230,7 @@ export const mockGeographyData = [
 	},
 	{
 		id: "UKR",
-		value: 74172,
+		value: 7114172,
 	},
 	{
 		id: "URY",
